@@ -47,11 +47,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cnKrYoe_jFBzxMX8gQpi-16" value="[004] 图例名称列表" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.22;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-2" target="cnKrYoe_jFBzxMX8gQpi-11">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.1513" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1090" y="169" />
-              <mxPoint x="1090" y="244" />
+              <mxPoint x="1130" y="169" />
+              <mxPoint x="1130" y="244" />
             </Array>
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cnKrYoe_jFBzxMX8gQpi-17" value="[005] x_label + y_label" style="startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0;entryY=0.72;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-2" target="cnKrYoe_jFBzxMX8gQpi-11">
