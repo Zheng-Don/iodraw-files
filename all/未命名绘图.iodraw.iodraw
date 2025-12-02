@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cnKrYoe_jFBzxMX8gQpi-1" value="射频曲线解析系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;container=0;" vertex="1" parent="1">
-          <mxGeometry y="30" width="1426" height="453" as="geometry" />
-        </mxCell>
         <mxCell id="cnKrYoe_jFBzxMX8gQpi-2" value="语义识别模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="652" y="73" width="368" height="167" as="geometry" />
         </mxCell>
@@ -79,12 +76,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cnKrYoe_jFBzxMX8gQpi-18" value="[006] 像素曲线&#xa;[007] 真实曲线&#xa;[008] 颜色+名称" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.2;entryY=1;rounded=0;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-8" target="cnKrYoe_jFBzxMX8gQpi-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1141" y="373" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="cnKrYoe_jFBzxMX8gQpi-18" value="[006] 像素曲线&#xa;[007] 真实曲线&#xa;[008] 颜色+名称" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.2;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-8" target="cnKrYoe_jFBzxMX8gQpi-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
