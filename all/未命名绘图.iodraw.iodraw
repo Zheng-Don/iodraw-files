@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cnKrYoe_jFBzxMX8gQpi-2" value="语义识别模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="cnKrYoe_jFBzxMX8gQpi-2" value="语义识别模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="652" y="86" width="368" height="167" as="geometry" />
         </mxCell>
         <mxCell id="cnKrYoe_jFBzxMX8gQpi-3" value="物理意义&#xa;识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cnKrYoe_jFBzxMX8gQpi-2">
@@ -22,7 +22,7 @@
         <mxCell id="cnKrYoe_jFBzxMX8gQpi-7" value="颜色指示&#xa;检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cnKrYoe_jFBzxMX8gQpi-5">
           <mxGeometry x="47.00729927007299" y="155" width="94.01459854014598" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="cnKrYoe_jFBzxMX8gQpi-8" value="曲线提取模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="cnKrYoe_jFBzxMX8gQpi-8" value="曲线提取模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="652" y="296" width="368" height="167" as="geometry" />
         </mxCell>
         <mxCell id="cnKrYoe_jFBzxMX8gQpi-9" value="噪声断点&#xa;修复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cnKrYoe_jFBzxMX8gQpi-8">
