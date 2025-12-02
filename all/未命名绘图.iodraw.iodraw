@@ -48,7 +48,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cnKrYoe_jFBzxMX8gQpi-16" value="[004] 图例名称列表" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.22;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-2" target="cnKrYoe_jFBzxMX8gQpi-11">
+        <mxCell id="cnKrYoe_jFBzxMX8gQpi-16" value="图例名称列表" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.22;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-2" target="cnKrYoe_jFBzxMX8gQpi-11">
           <mxGeometry x="0.1513" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1130" y="169" />
@@ -57,10 +57,10 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cnKrYoe_jFBzxMX8gQpi-17" value="[005] x_label + y_label" style="startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0;entryY=0.72;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-2" target="cnKrYoe_jFBzxMX8gQpi-11">
+        <mxCell id="cnKrYoe_jFBzxMX8gQpi-17" value="x_label + y_label" style="startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0;entryY=0.72;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-2" target="cnKrYoe_jFBzxMX8gQpi-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cnKrYoe_jFBzxMX8gQpi-18" value="[006] 像素曲线&#xa;[007] 真实曲线&#xa;[008] 颜色+名称" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-8" target="cnKrYoe_jFBzxMX8gQpi-11">
+        <mxCell id="cnKrYoe_jFBzxMX8gQpi-18" value="像素曲线&#xa;[007] 真实曲线&#xa;[008] 颜色+名称" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-8" target="cnKrYoe_jFBzxMX8gQpi-11">
           <mxGeometry x="-0.176" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
