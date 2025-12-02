@@ -62,21 +62,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cnKrYoe_jFBzxMX8gQpi-16" value="[004] 图例名称列表" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.22;rounded=0;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-2" target="cnKrYoe_jFBzxMX8gQpi-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1141" y="156" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="cnKrYoe_jFBzxMX8gQpi-16" value="[004] 图例名称列表" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.22;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-2" target="cnKrYoe_jFBzxMX8gQpi-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cnKrYoe_jFBzxMX8gQpi-17" value="[005] x_label + y_label" style="startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0;entryY=0.72;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-2" target="cnKrYoe_jFBzxMX8gQpi-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1141" y="217" />
-              <mxPoint x="1141" y="240" />
-              <mxPoint x="1262" y="240" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cnKrYoe_jFBzxMX8gQpi-18" value="[006] 像素曲线&#xa;[007] 真实曲线&#xa;[008] 颜色+名称" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.2;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-8" target="cnKrYoe_jFBzxMX8gQpi-11">
           <mxGeometry relative="1" as="geometry" />
