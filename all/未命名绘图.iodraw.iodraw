@@ -17,10 +17,10 @@
           <mxGeometry x="180" y="177" width="274" height="280" as="geometry" />
         </mxCell>
         <mxCell id="cnKrYoe_jFBzxMX8gQpi-6" value="图例检测&#xa;定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cnKrYoe_jFBzxMX8gQpi-5">
-          <mxGeometry x="69.99630434782608" y="59.99550898203594" width="92.32608695652173" height="112.33532934131738" as="geometry" />
+          <mxGeometry x="70" y="60" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cnKrYoe_jFBzxMX8gQpi-7" value="颜色指示&#xa;检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cnKrYoe_jFBzxMX8gQpi-5">
-          <mxGeometry x="161.57065217391303" y="97.24550898203594" width="92.32608695652173" height="112.33532934131738" as="geometry" />
+          <mxGeometry x="70.00065217391304" y="152.99550898203594" width="92.32608695652173" height="112.33532934131738" as="geometry" />
         </mxCell>
         <mxCell id="cnKrYoe_jFBzxMX8gQpi-8" value="曲线提取模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="652" y="290" width="368" height="167" as="geometry" />
