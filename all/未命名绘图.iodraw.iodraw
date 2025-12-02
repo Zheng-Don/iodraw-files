@@ -37,12 +37,8 @@
         <mxCell id="cnKrYoe_jFBzxMX8gQpi-12" value="[001] Color框+TL框坐标" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.19;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-5" target="cnKrYoe_jFBzxMX8gQpi-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cnKrYoe_jFBzxMX8gQpi-13" value="[002] BGR颜色列表" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0;entryY=0.65;rounded=0;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-5" target="cnKrYoe_jFBzxMX8gQpi-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="528" y="416" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="cnKrYoe_jFBzxMX8gQpi-13" value="[002] BGR颜色列表" style="startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0;entryY=0.65;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-5" target="cnKrYoe_jFBzxMX8gQpi-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cnKrYoe_jFBzxMX8gQpi-14" value="[001] TL框坐标" style="startArrow=none;endArrow=block;exitX=1;exitY=0.03;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cnKrYoe_jFBzxMX8gQpi-5" target="cnKrYoe_jFBzxMX8gQpi-2">
           <mxGeometry relative="1" as="geometry" />
