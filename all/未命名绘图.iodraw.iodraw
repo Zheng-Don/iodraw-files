@@ -13,7 +13,7 @@
         <mxCell id="cnKrYoe_jFBzxMX8gQpi-4" value="图例识别&#xa;对应" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cnKrYoe_jFBzxMX8gQpi-2">
           <mxGeometry x="217" y="58" width="124" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="cnKrYoe_jFBzxMX8gQpi-5" value="目标检测模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="cnKrYoe_jFBzxMX8gQpi-5" value="目标检测模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="270" y="160" width="184" height="280" as="geometry" />
         </mxCell>
         <mxCell id="cnKrYoe_jFBzxMX8gQpi-6" value="图例检测&#xa;定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cnKrYoe_jFBzxMX8gQpi-5">
