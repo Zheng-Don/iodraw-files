@@ -135,13 +135,13 @@
           <mxGeometry x="2155" y="1542" width="171" height="67" as="geometry" />
         </mxCell>
         <mxCell id="1XO1kHUNmaSwqV9xqYr9-25" value="原始数据库&#xa;Raw Data" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="415" y="913" width="95" height="84" as="geometry" />
+          <mxGeometry x="540" y="500" width="95" height="84" as="geometry" />
         </mxCell>
         <mxCell id="1XO1kHUNmaSwqV9xqYr9-26" value="向量数据库&#xa;Vector DB" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="560" y="913" width="95" height="84" as="geometry" />
+          <mxGeometry x="685" y="500" width="95" height="84" as="geometry" />
         </mxCell>
         <mxCell id="1XO1kHUNmaSwqV9xqYr9-27" value="知识图谱存储&#xa;Graph DB" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="705" y="911" width="111" height="87" as="geometry" />
+          <mxGeometry x="830" y="498" width="111" height="87" as="geometry" />
         </mxCell>
         <mxCell id="1XO1kHUNmaSwqV9xqYr9-28" value="导出: .mdm / .s2p / .cit文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2138" y="1709" width="205" height="67" as="geometry" />
@@ -180,7 +180,6 @@
             <Array as="points">
               <mxPoint x="1297" y="850" />
               <mxPoint x="1297" y="886" />
-              <mxPoint x="700" y="1060" />
             </Array>
           </mxGeometry>
         </mxCell>
