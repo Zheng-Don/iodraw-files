@@ -87,7 +87,7 @@
           <mxGeometry x="439" y="46" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1XO1kHUNmaSwqV9xqYr9-9" value="2. LLM选型引擎" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1074" y="1295" width="608" height="124" as="geometry" />
+          <mxGeometry x="1100" y="1295" width="608" height="124" as="geometry" />
         </mxCell>
         <mxCell id="1XO1kHUNmaSwqV9xqYr9-10" value="RAG 检索增强" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1XO1kHUNmaSwqV9xqYr9-9">
           <mxGeometry x="43" y="46" width="158" height="49" as="geometry" />
