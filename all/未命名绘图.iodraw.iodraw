@@ -253,6 +253,155 @@
         <mxCell id="1XO1kHUNmaSwqV9xqYr9-1" value="数据基础设施层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1500" y="840" width="471" height="137" as="geometry" />
         </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-44" value="数据基础设施" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1163" y="2077" width="584" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-45" value="核心功能服务体系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="323" y="1949" width="820" height="614" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-46" value="智能决策中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="513" y="2252" width="329" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-47" value="应用交互层 (User Interface)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1800" width="836" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-48" value="建库/录入人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="907" y="1825" width="164" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-49" value="系统架构师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1825" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-50" value="芯片设计工程师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="685" y="1825" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-51" value="建模工程师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1825" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-52" value="1. 前端数据感知模块&#xa;(面向建库/多模态解析)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="959" y="1974" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-53" value="2. LLM驱动芯片选型模块&#xa;(面向系统设计/推荐)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="613" y="2380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-54" value="3. 知识图谱支援模块&#xa;(面向芯片设计/辅助)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="741" y="2277" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-55" value="4. 后续建模流程支援模块&#xa;(面向IC-CAP/ESCL上游)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="613" y="2508" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-56" value="原始参数数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1387" y="2103" width="127" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-57" value="向量数据库 (LLM)" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1198" y="2103" width="139" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-58" value="领域知识图谱 (KG)" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1564" y="2102" width="148" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-59" value="外部EDA环境&#xa;(Keysight IC-CAP / ESCL)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="525" y="2636" width="236" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1XO1kHUNmaSwqV9xqYr9-48" target="1XO1kHUNmaSwqV9xqYr9-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.12;entryY=-0.01;rounded=0;" edge="1" parent="1" source="1XO1kHUNmaSwqV9xqYr9-49" target="1XO1kHUNmaSwqV9xqYr9-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="565" y="2343" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="1XO1kHUNmaSwqV9xqYr9-50" target="1XO1kHUNmaSwqV9xqYr9-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.3;rounded=0;" edge="1" parent="1" source="1XO1kHUNmaSwqV9xqYr9-51" target="1XO1kHUNmaSwqV9xqYr9-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="2471" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-64" value="结构化数据入库" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=1;entryX=0;entryY=0.39;rounded=0;" edge="1" parent="1" source="1XO1kHUNmaSwqV9xqYr9-52" target="1XO1kHUNmaSwqV9xqYr9-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="977" y="2041" />
+              <mxPoint x="977" y="2077" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-65" value="知识抽取" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0;entryY=0.39;rounded=0;" edge="1" parent="1" source="1XO1kHUNmaSwqV9xqYr9-52" target="1XO1kHUNmaSwqV9xqYr9-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1089" y="2041" />
+              <mxPoint x="1089" y="2077" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-66" value="语义向量化" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0;entryY=0.35;rounded=0;" edge="1" parent="1" source="1XO1kHUNmaSwqV9xqYr9-52" target="1XO1kHUNmaSwqV9xqYr9-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="851" y="2041" />
+              <mxPoint x="851" y="2077" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-67" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.45;entryY=-0.01;rounded=0;" edge="1" parent="1" source="1XO1kHUNmaSwqV9xqYr9-57" target="1XO1kHUNmaSwqV9xqYr9-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1267" y="2202" />
+              <mxPoint x="633" y="2227" />
+              <mxPoint x="633" y="2343" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-68" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0.55;entryY=-0.01;rounded=0;" edge="1" parent="1" source="1XO1kHUNmaSwqV9xqYr9-56" target="1XO1kHUNmaSwqV9xqYr9-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1450" y="2202" />
+              <mxPoint x="653" y="2227" />
+              <mxPoint x="653" y="2343" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-69" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.72;entryY=-0.01;rounded=0;" edge="1" parent="1" source="1XO1kHUNmaSwqV9xqYr9-58" target="1XO1kHUNmaSwqV9xqYr9-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1638" y="2202" />
+              <mxPoint x="806" y="2227" />
+              <mxPoint x="806" y="2252" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-70" value="提供设计约束" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.09;rounded=0;" edge="1" parent="1" source="1XO1kHUNmaSwqV9xqYr9-54" target="1XO1kHUNmaSwqV9xqYr9-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="771" y="2343" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-71" value="传递选型参数" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="1XO1kHUNmaSwqV9xqYr9-53" target="1XO1kHUNmaSwqV9xqYr9-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-72" value="调用测量数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=1;entryY=0.35;rounded=0;" edge="1" parent="1" source="1XO1kHUNmaSwqV9xqYr9-56" target="1XO1kHUNmaSwqV9xqYr9-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1692" y="2202" />
+              <mxPoint x="1008" y="2227" />
+              <mxPoint x="1008" y="2471" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1XO1kHUNmaSwqV9xqYr9-73" value="生成模型/网表" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="1XO1kHUNmaSwqV9xqYr9-55" target="1XO1kHUNmaSwqV9xqYr9-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
