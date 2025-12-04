@@ -180,6 +180,7 @@
             <Array as="points">
               <mxPoint x="1297" y="850" />
               <mxPoint x="1297" y="886" />
+              <mxPoint x="700" y="1060" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -251,7 +252,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1XO1kHUNmaSwqV9xqYr9-1" value="数据基础设施层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1174" y="886" width="471" height="137" as="geometry" />
+          <mxGeometry x="1500" y="840" width="471" height="137" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
